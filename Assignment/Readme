@@ -1,27 +1,33 @@
-## ** Time Series Forecasting with Optuna Hyperparameter Optimization **
-** Project Overview**
+## Time Series Forecasting with Optuna Hyperparameter Optimization
 
-This project implements a robust time series forecasting pipeline using deep learning models — LSTM, CNN, and Transformer architectures.
-The key feature is hyperparameter tuning with Optuna, which automatically finds the best model configurations to minimize forecasting error. 
+**Project Overview**
+
+This project implements a robust time series forecasting pipeline using deep learning models — LSTM, CNN, and Transformer architectures.  
+The key feature is hyperparameter tuning with Optuna, which automatically finds the best model configurations to minimize forecasting error.  
 The models are trained and evaluated on a multivariate time series dataset, and the best-performing models are saved for later use.
 
 **Team Project - Dhanya and Diya**
+
 **Features**
 
-Models:
-#Long Short-Term Memory (LSTM)
-#1D Convolutional Neural Network (CNN)
-Transformer-based model
-#Hyperparameter Optimization:
-Optuna framework to optimize hyperparameters like number of units, layers, dropout rates, learning rate, batch size, etc.
-Early stopping to prevent overfitting.
-#Preprocessing:
-Data normalization/scaling.
-Windowing time series data for supervised learning.
-#Model Saving & Loading:
-Models saved using the Keras native format (.keras) for best compatibility.
-#Evaluation:
-Mean Absolute Error (MAE) used to assess model validation performance.
+- **Models:**  
+  - Long Short-Term Memory (LSTM)  
+  - 1D Convolutional Neural Network (CNN)  
+  - Transformer-based model
+
+- **Hyperparameter Optimization:**  
+  - Optuna framework to optimize hyperparameters like number of units, layers, dropout rates, learning rate, batch size, etc.  
+  - Early stopping to prevent overfitting.
+
+- **Preprocessing:**  
+  - Data normalization/scaling.  
+  - Windowing time series data for supervised learning.
+
+- **Model Saving & Loading:**  
+  - Models saved using the Keras native format (.keras) for best compatibility.
+
+- **Evaluation:**  
+  - Mean Absolute Error (MAE) used to assess model validation performance.
 
 **How to Run**
 Step 1: 
