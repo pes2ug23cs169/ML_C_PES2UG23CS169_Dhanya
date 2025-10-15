@@ -1,5 +1,5 @@
-**Time Series Forecasting with Optuna Hyperparameter Optimization**
-**Project Overview**
+** Time Series Forecasting with Optuna Hyperparameter Optimization **
+** Project Overview**
 
 This project implements a robust time series forecasting pipeline using deep learning models — LSTM, CNN, and Transformer architectures.
 The key feature is hyperparameter tuning with Optuna, which automatically finds the best model configurations to minimize forecasting error. 
