@@ -7,8 +7,8 @@ The key feature is hyperparameter tuning with Optuna, which automatically finds 
 The models are trained and evaluated on a multivariate time series dataset, and the best-performing models are saved for later use.
 
 **Team Project -**
-Dhanya 
-Diya - https://github.com/PES2UG23CS183/ML_C_PES2UG23CS183_Diya/tree/main/ML_Project_23
+- Dhanya 
+- Diya - https://github.com/PES2UG23CS183/ML_C_PES2UG23CS183_Diya/tree/main/ML_Project_23
 
 **Features**
 
