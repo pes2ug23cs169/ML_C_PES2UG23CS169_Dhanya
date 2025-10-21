@@ -6,7 +6,9 @@ This project implements a robust time series forecasting pipeline using deep lea
 The key feature is hyperparameter tuning with Optuna, which automatically finds the best model configurations to minimize forecasting error.  
 The models are trained and evaluated on a multivariate time series dataset, and the best-performing models are saved for later use.
 
-**Team Project - Dhanya and Diya**
+**Team Project -**
+Dhanya 
+Diya - https://github.com/PES2UG23CS183/ML_C_PES2UG23CS183_Diya/tree/main/ML_Project_23
 
 **Features**
 
