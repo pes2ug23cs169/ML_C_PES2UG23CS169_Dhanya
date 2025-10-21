@@ -1,5 +1,4 @@
-## Time Series Forecasting with Optuna Hyperparameter Optimization
-
+## Smart Grid Energy Forecasting using Neural Architecture Search (NAS)
 **Project Overview**
 
 This project implements a robust time series forecasting pipeline using deep learning models — LSTM, CNN, and Transformer architectures.  
