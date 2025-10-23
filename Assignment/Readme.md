@@ -49,7 +49,8 @@ cd ML_C_PES2UG23CS169_Dhanya/Assignment
 
 **Step 2:**
 If you have clean data (household_data_15min_clean.csv), place it in the project folder. 
-If using raw data, run the preprocessing cells in the notebook to clean and format it.
+If using raw data, run the preprocessing cells in the notebook to clean and format it.\
+
 **Step 3:**
 Open Optuna NAS.ipynb to train and evaluate models (LSTM, CNN, Transformer) using Optuna. 
 Run Hyperband approach.ipynb for comparison of optimization methods.
