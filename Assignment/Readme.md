@@ -7,7 +7,7 @@ The models are trained and evaluated on a multivariate time series dataset, and 
 
 **Dataset Used**
 
-In this project, we have used "Household Load and Solar Generation” dataset from kaggle (household_data_15min_raw.csv).
+In this project, we have used "Household Load and Solar Generation" dataset from kaggle(household_data_15min_raw.csv).
 
 Link to access  the dataset: https://www.kaggle.com/datasets/mexwell/household-load-and-solar-generation
 
