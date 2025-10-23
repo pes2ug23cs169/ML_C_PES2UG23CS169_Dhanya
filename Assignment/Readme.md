@@ -12,6 +12,7 @@ The dataset used in this project is "Household Load and Solar Generation" datase
 Link to access  the dataset: https://www.kaggle.com/datasets/mexwell/household-load-and-solar-generation
 
 **Team Project -**
+
 Dhanya Prabhu
 
 Diya D Bhat- https://github.com/PES2UG23CS183/ML_C_PES2UG23CS183_Diya/tree/main/ML_Project_23
