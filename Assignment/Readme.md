@@ -5,6 +5,10 @@ This project implements a robust time series forecasting pipeline using deep lea
 The key feature is hyperparameter tuning with Optuna, which automatically finds the best model configurations to minimize forecasting error.  
 The models are trained and evaluated on a multivariate time series dataset, and the best-performing models are saved for later use.
 
+**Dataset Used**
+In this project, we have used "Household Load and Solar Generation” dataset from kaggle (household_data_15min_raw.csv).
+Link to access  the dataset: https://www.kaggle.com/datasets/mexwell/household-load-and-solar-generation
+
 **Team Project -**
 - Dhanya Prabhu
 - Diya D Bhat- https://github.com/PES2UG23CS183/ML_C_PES2UG23CS183_Diya/tree/main/ML_Project_23
@@ -30,7 +34,8 @@ The models are trained and evaluated on a multivariate time series dataset, and 
 - **Evaluation:**  
   - Mean Absolute Error (MAE) used to assess model validation performance.
 
-**How to Run**
+## How to Run
+**REQUIRES GPU ACCESS AS THE TRAINING PART TAKES VERY LONG TO COMPLETE DUE TO THE DATASET BEING TOO VAST**
 Step 1: 
 Clone the repository.(Alternately you can even download the entire folder as zip)
 git clone https://github.com/pes2ug23cs169/ML_C_PES2UG23CS169_Dhanya.git
