@@ -41,11 +41,13 @@ Diya D Bhat- https://github.com/PES2UG23CS183/ML_C_PES2UG23CS183_Diya/tree/main/
 **REQUIRES GPU ACCESS AS THE TRAINING PART TAKES VERY LONG TO COMPLETE DUE TO THE DATASET BEING TOO VAST**
 - Step 1: 
 Clone the repository.(Alternately you can even download the entire folder as zip)
+
 git clone https://github.com/pes2ug23cs169/ML_C_PES2UG23CS169_Dhanya.git
+
 cd ML_C_PES2UG23CS169_Dhanya/Assignment
 
 - Step 2:
-If you have clean data (e.g., household_data_15min_clean.csv), place it in the project folder. 
+If you have clean data (household_data_15min_clean.csv), place it in the project folder. 
 If using raw data, run the preprocessing cells in the notebook to clean and format it.
 
 - Step 3:
@@ -53,4 +55,4 @@ Open Optuna NAS.ipynb to train and evaluate models (LSTM, CNN, Transformer) usin
 Run Hyperband approach.ipynb for comparison of optimization methods.
 
 - Step 4: 
-VIew Results
+VIew Results. Trained models are saved in /models/. Evaluation metrics, Pareto front plots, and ensemble results will be displayed automatically.
