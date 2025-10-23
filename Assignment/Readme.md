@@ -34,7 +34,7 @@ Link to access  the dataset: https://www.kaggle.com/datasets/mexwell/household-l
 - **Evaluation:**  
   - Mean Absolute Error (MAE) used to assess model validation performance.
 
-## How to Run
+## Running the project
 **REQUIRES GPU ACCESS AS THE TRAINING PART TAKES VERY LONG TO COMPLETE DUE TO THE DATASET BEING TOO VAST**
 Step 1: 
 Clone the repository.(Alternately you can even download the entire folder as zip)
